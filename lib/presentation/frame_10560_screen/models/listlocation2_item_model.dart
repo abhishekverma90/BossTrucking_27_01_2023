@@ -1,0 +1,1 @@
+class Listlocation2ItemModel { }

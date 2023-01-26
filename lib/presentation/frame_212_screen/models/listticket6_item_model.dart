@@ -1,0 +1,1 @@
+class Listticket6ItemModel { }
