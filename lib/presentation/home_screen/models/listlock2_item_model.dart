@@ -1,0 +1,1 @@
+class Listlock2ItemModel { }
